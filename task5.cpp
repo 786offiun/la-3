@@ -10,10 +10,10 @@ void printD();
 main()
 {
 	printH();
-	printA(x,y);
-	printM(x,y);
-	printI(x,y);
-	printD(x,y);
+	printA();
+	printM();
+	printI();
+	printD();
 }
 void printH()
 {
